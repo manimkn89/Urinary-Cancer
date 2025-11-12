@@ -63,4 +63,6 @@ Explainable AI
       
       Target variable: STAT_REC (cancer status)
       
-      Data Access: Dataset will be shared on request due to ethical and licensing restrictions.
+      Data Access: A sample of 20 anonymized records has been included in this repository to demonstrate the dataset structure and preprocessing workflow.
+
+                  Due to the ICMR–NIRT data protection policy, the complete dataset is restricted and cannot be publicly shared. The datasets used and/or analysed during the current study are available from the corresponding author upon reasonable request, strictly for academic and research purposes.
